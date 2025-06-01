@@ -1,2 +1,0 @@
-# AR_SwitchBotOperationForPublish
-一般公開向けにコメントアウトを追加
