@@ -12,7 +12,7 @@ import cv2
 from pyzbar.pyzbar import decode, ZBarSymbol
 import tkinter as tk
 
-from recordELECOM import SoundRecorder  # 音声録音クラス（ELECOMマイク向けカスタム）
+from record import SoundRecorder  # 音声録音クラス（ELECOMマイク向けカスタム）
 
 # === サーバ接続設定（IPは環境に応じて変更してください） ===
 IP_ADDRESS = 'YOUR_SERVER_IP'
