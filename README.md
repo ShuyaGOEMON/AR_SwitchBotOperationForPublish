@@ -88,7 +88,7 @@ MIT License
 - BLE経由のローカルSwitchBot制御
 
 # Remote SwitchBot Control System with AR Glasses and Speech Recognition
-
+(This README was created using GPT-4o. The content has been verified by ShuyaGOEMON.)
 ## 🔧 Overview
 
 This project implements a **hands-free control system** using AR glasses, speech recognition, and the SwitchBot API.  
